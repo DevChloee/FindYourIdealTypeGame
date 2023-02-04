@@ -3,3 +3,8 @@ Find your ideal type game | JAVA |In this game, the user is presented with two a
 
 
 In this game, the user is presented with two actresses and can choose their preferred actress, and if unselected, the actresses will be swapped out for new ones, allowing the user to eventually find their ideal type by continually selecting the actress they like most.
+
+
+![IdealTypeGame](https://user-images.githubusercontent.com/94908992/216789058-75abdc94-fc45-439c-baff-d4a228ddd76c.jpg)
+
+
